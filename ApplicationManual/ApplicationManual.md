@@ -26,7 +26,8 @@ https://github.com/PartnerRobotChallengeVirtual/interactive-cleanup-unity/wiki/S
 
 ## Handyman
 
-The procedure for executing the sample program is described below.
+The procedure for executing the sample program is described below.  
+For details please refer to the readme and the wiki of each repository.
 
 1. Install the ROS package.  
 https://github.com/PartnerRobotChallengeVirtual/handyman-ros#how-to-install
@@ -41,7 +42,8 @@ https://github.com/PartnerRobotChallengeVirtual/handyman-unity#execute-on-unity-
 
 ## Interactive Cleanup
 
-The procedure for executing the sample program is described below.
+The procedure for executing the sample program is described below.  
+For details please refer to the readme and the wiki of each repository.
 
 1. Install the ROS package.  
 https://github.com/PartnerRobotChallengeVirtual/interactive-cleanup-ros#how-to-install
