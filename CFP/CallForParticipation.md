@@ -5,7 +5,7 @@
 ### http://worldrobotsummit.org/en/
 
 We are happy to announce, that the registration for the partner robot challenge (Virtual Space), at the pre-event of World Robot Summit 2018 has been opened at  
-** http://worldrobotsummit.org/en/wrc2018/pre-entry/ **
+**http://worldrobotsummit.org/en/wrc2018/pre-entry/**
 
 Please see the call for participation above. The registration deadline is 15th March 2018.
 
