@@ -9,7 +9,7 @@ Under Construction
 :construction_worker: :construction_worker: :construction_worker: :construction_worker: :construction_worker:
 
 
-# Application Manual
+# Software Manual
 
-For the application manual of the competition please refer to the following page.  
-[Application Manual](ApplicationManual/ApplicationManual.md)
+For the software manual of the competition please refer to the following page.  
+[Software Manual](SoftwareManual/SoftwareManual.md)
