@@ -11,7 +11,7 @@ The competition will prepare the Windows computer to run the programs for the co
 | No | Item       | Description    |
 |:--:| ---------- |----------------|
 | 1  | OS         | Windows 10     |
-| 2  | Unity      | [Unity 2017.3.0][download unity] |
+| 2  | Unity      | [Unity 2017.3.1][download unity] |
 | 3  | IP Address | 192.168.0.1    |
 | 4  | Note       | System requirements for Unity are as below.<br>https://unity3d.com/unity/system-requirements<br> System requirements for Oculus Rift CV1 + Oculus Touch are as below.<br>https://support.oculus.com/170128916778795/ |
 
