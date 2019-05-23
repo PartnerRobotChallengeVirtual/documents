@@ -9,10 +9,8 @@ For the call for participation please refer to the following page.
 
 # Rule Book
 
-Under Construction
-
-:construction_worker: :construction_worker: :construction_worker: :construction_worker: :construction_worker:
-
+Please refer to the following page.  
+https://worldrobotsummit.org/download/rulebook-en/rulebook-simulation_league_partner_robot_challnege.pdf
 
 # Software Manual
 
